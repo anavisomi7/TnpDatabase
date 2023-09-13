@@ -19,21 +19,27 @@ operations.
 The TnPcell of NIT Delhi is maintaining the record of all students and staff
 members related to the TnP cell. In addition to that, keeping track of
 placement statistics of all students of the following years.
+
 a) TnP cell keeps all records of students name, father’s name, enrollment
 number, email, current address, permanent address, joining year,
 placement year, current year, if he/she is a member of TnP cell or not,
 sex, birthdate, phone number.
+
 b) A record of the head of the TnP cell on the home page and the
 directors of the college.
+
 c) They only give access to a few students for editing and updating the
 data which would basically be the members of the TnP cell in the
 college and would be allowed to alter other information and assign
 them usernames, passwords.
+
 d) It will contain information of alumni of NIT Delhi in which they have a
 record of the package/CTC offered along with the basic information
 like the father's name.
+
 e) There is also a record of all companies that came for recruitment with
 their visiting year.
+
 f) In addition to this, it will also contain a help desk page where we will
 be providing the emails and contact details of the college for any
 query or information.
@@ -41,12 +47,16 @@ query or information.
 ## FUNCTIONALITIES:
 ● The database stores the information about the college’s TnP cell, the
 procedure for placement reports, and past recruiters.
+
 ● It provides means to obtain the data of the different companies who
 have visited our college and the statistics.
+
 ● A part of the database can be used for the official website of the TnP
 cell NIT Delhi for information in the future.
+
 ● The database also contains information of the past recruiters and
 companies which have visited the college as well as the alumni.
+
 ● We Will provide a ‘Login’ for students and faculty to access the data
 and we will also be there so that people can contact us through the
 modes specified.
